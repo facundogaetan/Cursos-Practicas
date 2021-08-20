@@ -1,0 +1,4 @@
+funcion que redondea un numero al mas cercano dentro de un rango dado por parametro.
+ej: queremos redondear 50 en un rango de 20 a 100 la funcion nos devolveria 20 ya que es el numero mas cercano a 50
+
+los parametros tienen que ser unicamente numeros y no puede haber numeros repetidos.
